@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kai Jie</h1>
 <h3 align="center">A Business Analytics Student at NUS School of Computing</h3>
 
-- 📫 How to reach me **koiljat@u.nus.edu**
+📫 How to reach me **koiljat@u.nus.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
